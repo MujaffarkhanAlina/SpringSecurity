@@ -12,6 +12,7 @@ public class EurekaApplication {
 		
 		
 		System.out.println("branch tag to mater branch......");
+		System.out.println("branch tag to mater branch......");
 		System.out.println("Change in tag branch......");
 		System.out.println("Change in tag branch......");
 		System.out.println("Hello......");
