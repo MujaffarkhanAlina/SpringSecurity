@@ -10,6 +10,7 @@ public class EurekaApplication {
 
 	public static void main(String[] args) {
 		
+		System.out.println("Dev branch changes in manser......");
 		System.out.println("Hello......");
 		System.out.println("second changes--Hello......");
 		SpringApplication.run(EurekaApplication.class, args);
